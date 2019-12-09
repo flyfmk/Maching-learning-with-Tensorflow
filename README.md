@@ -1,2 +1,1 @@
-# Designing-And-Developing-for-GIS
-A professional required course for the major of geographic information science. The course content is mainly for the development of WebGIS. The reference book is the development guide for ArcGIS API for JavaScript.
+这里面主要是对Tensorflow的一些基本功能的测试，同时也涉及到一些常用的机器学习算法
